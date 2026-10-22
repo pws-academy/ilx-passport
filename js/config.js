@@ -4,8 +4,8 @@
 */
 export const CONFIG = {
   // From Microsoft Entra ID > App registrations > your app > Overview
-  clientId: "PASTE-APPLICATION-CLIENT-ID",
-  tenantId: "PASTE-DIRECTORY-TENANT-ID",
+  clientId: "3e30dbfe-d41c-48c2-9156-6702804b2d86",
+  tenantId: "a0d6e94d-9f6e-486a-a59f-4e33da5f9d61",
 
   // Your PWS Academy SharePoint site address (no trailing slash)
   siteUrl: "https://peopleworksmart.sharepoint.com/sites/PWSAcademy",
